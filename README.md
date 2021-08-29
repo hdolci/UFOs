@@ -1,6 +1,6 @@
 # UFO sightings
 
-The purpose of this project is to present a large set of data stored as a Javascript file to the user as a webpage through a web browser. The user will also have filter options to see the exact data needed.
+The purpose of this project is to present a large set of data stored as a Javascript file to the user as a webpage through a web browser. The user will also have filter options to see the exact data needed. Web page is hoted [here](https://hdolci.github.io/UFOs/).
 
 ## Results
 User can visit the page and entered their desired filters to the left and the table should return the results based on the filters as seen in these screenshots:
